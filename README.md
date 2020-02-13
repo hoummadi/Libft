@@ -5,7 +5,7 @@ libft is an extension/remake of the standard library.
 ## Getting Started
 
 ```
-git clone
+git clone https://github.com/hoummadi/Libft.git
 cd libft
 make all
 ```
